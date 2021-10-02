@@ -1,0 +1,4 @@
+[submodule "stesi/gles_pkgimpr"]
+	path = stesi/gles_pkgimpr
+	url = git@github.com:stesi/gles_pkgimpr.git
+	branch = 14.0
