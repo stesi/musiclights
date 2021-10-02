@@ -2,3 +2,8 @@
 	path = stesi/gles_pkgimpr
 	url = git@github.com:stesi/gles_pkgimpr.git
 	branch = 14.0
+
+[submodule "stesi/stesi_stock"]
+	path = stesi/stesi_stock
+	url = git@github.com:stesi/stesi_stock.git
+	branch = 14.0
