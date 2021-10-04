@@ -7,3 +7,8 @@
 	path = stesi/stesi_stock
 	url = git@github.com:stesi/stesi_stock.git
 	branch = 14.0
+
+[submodule "stesi/stock-logistics-warehouse"]
+	path = stesi/stock-logistics-warehouse
+	url = git@github.com:stesi/stock-logistics-warehouse.git
+	branch = 14.0-mig-stock_mts_mto_rule
