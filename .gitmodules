@@ -12,3 +12,8 @@
 	path = stesi/stock-logistics-warehouse
 	url = git@github.com:stesi/stock-logistics-warehouse.git
 	branch = 14.0-mig-stock_mts_mto_rule
+
+[submodule "OCA/wms"]
+	path = OCA/wms
+	url = git@github.com:OCA/wms.git
+	branch = 14.0
